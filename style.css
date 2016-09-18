@@ -20,9 +20,11 @@ section {
   margin: 1rem;
   z-index: +1;
   flex: 2;
-  font-size: 2rem;
+  font-size: 1.5rem;
   padding: 1rem;
   border: red solid .25rem;
+  font-family: 'Press Start 2P', cursive;
+
 
 }
 .game {
