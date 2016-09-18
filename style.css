@@ -8,3 +8,34 @@ body {
   height: 100vh;
   width: 100vw;
 }
+section {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.sign {
+  height: 20rem;
+  width: 40rem;
+  background-color: rgb(245, 165, 10);
+  margin: 1rem;
+  z-index: +1;
+  flex: 2;
+  font-size: 2rem;
+  padding: 1rem;
+  border: red solid .25rem;
+
+}
+.game {
+  flex: 1;
+  margin-left: 3rem;
+}
+.dummyHolder {
+  height: 20rem;
+  width: 40rem;
+  margin: 1.25rem;
+  z-index: +1;
+  flex: 2;
+  font-size: 2rem;
+  padding: 1rem;
+
+}
