@@ -15,7 +15,7 @@ section {
 }
 .sign {
   height: 15rem;
-  width: 30rem;
+  width: 25rem;
   background-color: rgb(245, 165, 10);
   margin: .5rem;
   z-index: +1;
@@ -33,7 +33,7 @@ section {
 }
 .dummyHolder {
   height: 15rem;
-  width: 30rem;
+  width: 25rem;
   margin: .75rem;
 
   flex: 2;
